@@ -34,3 +34,5 @@ https://ieeexplore.ieee.org/abstract/document/8778399
 https://arxiv.org/abs/1802.05799
 https://arxiv.org/abs/1603.04467
 
+was active in slack:
+https://bucse707fall2021.slack.com/archives/C02GH5UFA5R/p1642494010008400
